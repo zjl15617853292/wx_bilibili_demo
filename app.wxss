@@ -1,0 +1,7 @@
+/**app.wxss**/
+
+@import "styles/font-awesome.wxss";
+
+page, view, image, swiper, swiper-itme, navigator, video{
+  box-sizing: border-box;
+}
